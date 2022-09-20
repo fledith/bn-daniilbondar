@@ -26,7 +26,7 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/LESS-Dialect-informational?style=flat-square&logo=less&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Material-UI_Framework-informational?style=flat-square&logo=materialui&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
 
 #### Back-end
